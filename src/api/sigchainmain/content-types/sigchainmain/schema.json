@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sigchainmains",
+  "info": {
+    "singularName": "sigchainmain",
+    "pluralName": "sigchainmains",
+    "displayName": "sigchainmain",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sigchainmain": {
+      "type": "text"
+    },
+    "descriptionFirst": {
+      "type": "text"
+    },
+    "descriptionLast": {
+      "type": "text"
+    },
+    "title": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    }
+  }
+}

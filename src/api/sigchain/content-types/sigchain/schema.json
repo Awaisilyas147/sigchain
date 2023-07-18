@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sigchains",
+  "info": {
+    "singularName": "sigchain",
+    "pluralName": "sigchains",
+    "displayName": "sigchain",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sigchain": {
+      "type": "text"
+    },
+    "title": {
+      "type": "string"
+    },
+    "descriptionFirst": {
+      "type": "text"
+    },
+    "descriptionLast": {
+      "type": "text"
+    },
+    "URL": {
+      "type": "string"
+    }
+  }
+}
